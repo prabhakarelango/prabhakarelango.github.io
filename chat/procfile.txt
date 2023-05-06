@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-web: python chat/app.py
-=======
-web: python chat/app.py
-web: html chat/index.html
->>>>>>> 1602a4d6b5b9aa47992336df55e963aebdb48cd8
